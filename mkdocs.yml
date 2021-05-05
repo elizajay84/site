@@ -1,8 +1,0 @@
-site_name: My Docs
-nav:
-    - About: about.md
-    - Semester Reflection: sr.md
-    - Digital Learning Project: digitallearningproject.md
-    
-
-theme: material
