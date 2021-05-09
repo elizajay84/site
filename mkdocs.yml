@@ -1,0 +1,9 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - Semester Reflection: sr.md
+    - Digital Learning Project: digitallearningproject.md
+    - Personal Learning Network: personallearningnetwork.md
+    
+
+theme: material
